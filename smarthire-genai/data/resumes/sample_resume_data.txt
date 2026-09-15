@@ -1,0 +1,27 @@
+PRIYA NAIR
+Mumbai, India | priya.nair@example.com | +91-9123456780 | github.com/priyanair | linkedin.com/in/priyanair
+
+PROFESSIONAL SUMMARY
+Detail-oriented Data Analyst with strong foundations in statistical modeling, exploratory data analysis, and business intelligence. Skilled in SQL querying, Python data processing (Pandas, NumPy), and building interactive visualization dashboards in Tableau and Power BI.
+
+EDUCATION
+Bachelor of Science in Statistics & Computer Applications
+St. Xavier's College, Mumbai
+2021 - 2024 | Percentage: 84.5%
+
+TECHNICAL SKILLS
+- Data Analysis & Statistics: Exploratory Data Analysis (EDA), Hypothesis Testing, A/B Testing, Descriptive Statistics
+- Programming & Querying: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (PostgreSQL, MySQL), R
+- Business Intelligence Tools: Tableau, Power BI, Advanced Excel (Pivot Tables, VLOOKUP, Power Query)
+- Database Systems: MySQL, SQLite, PostgreSQL
+
+PRACTICAL EXPERIENCE & INTERNSHIPS
+Business Analytics Intern | InsightMetrics Solutions, Mumbai (Feb 2024 - June 2024)
+- Extracted and transformed monthly customer retention records of 50,000+ users using SQL queries and Python Pandas.
+- Designed 4 interactive Power BI executive dashboards tracking monthly churn rate and Customer Acquisition Cost (CAC).
+- Performed statistical regression analysis to evaluate feature impact on customer satisfaction scores.
+
+PROJECTS
+- Customer Segmentation Engine: Applied K-Means clustering algorithm in Python to segment 10,000 retail banking customers based on transactional frequency.
+- E-Commerce Sales Performance Dashboard: Built a dynamic Tableau dashboard evaluating quarterly regional sales, return margins, and inventory turnover.
+- Financial Fraud Detector: Built a baseline logistic regression classification model achieving 88% precision on transaction anomaly detection.

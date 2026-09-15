@@ -1,0 +1,21 @@
+# Python & Virtualenv
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+
+# Environment variables
+.env
+
+# Vectorstore binary artifacts (can be rebuilt)
+vectorstore/faiss_job_index/
+vectorstore/faiss_rag_index/
+
+# OS and IDE files
+.DS_Store
+.vscode/
+.idea/
+*.log

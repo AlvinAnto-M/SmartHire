@@ -1,0 +1,6 @@
+{
+  "name": "SmartHire GenAI",
+  "description": "AI-Powered Resume Matching & Career Mentor — Streamlit & GenAI Capstone",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

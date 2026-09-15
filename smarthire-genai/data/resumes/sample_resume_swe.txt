@@ -1,0 +1,31 @@
+ARJUN SHARMA
+Bengaluru, India | arjun.sharma@example.com | +91-9876543210 | github.com/arjunsharma | linkedin.com/in/arjunsharma
+
+PROFESSIONAL SUMMARY
+Motivated Computer Science graduate with hands-on experience in full-stack web development, Python scripting, RESTful API design, and cloud deployments. Passionate about building scalable software systems, writing maintainable code, and solving complex algorithmic challenges.
+
+EDUCATION
+Bachelor of Technology in Information Technology
+Vellore Institute of Technology (VIT), Vellore
+2020 - 2024 | CGPA: 8.7/10
+
+TECHNICAL SKILLS
+- Programming Languages: Python, Java, JavaScript, C++, SQL
+- Frameworks & Libraries: FastAPI, React, Node.js, Express, Tailwind CSS
+- Databases: PostgreSQL, MongoDB, MySQL
+- Developer Tools: Git, GitHub, Docker, Postman, Linux, VS Code
+
+PRACTICAL EXPERIENCE & INTERNSHIPS
+Software Engineering Intern | ByteWave Technologies, Bengaluru (Jan 2024 - May 2024)
+- Developed and tested 12+ RESTful backend endpoints using FastAPI and PostgreSQL for an internal analytics dashboard.
+- Containerized microservices using Docker and reduced local development setup time by 40%.
+- Participated in weekly agile code reviews, automated unit tests with PyTest achieving 82% coverage.
+
+ACADEMIC & PERSONAL PROJECTS
+- E-Commerce Microservices Platform: Built a decoupled web store with React frontend, Python FastAPI backend, and PostgreSQL database with JWT authentication.
+- Automated Job Scraper & Tracker: Created a Python automation script utilizing BeautifulSoup and SQLite to monitor tech job openings and notify via email.
+- Real-Time Chat Application: Developed a WebSocket-based messaging room utilizing Node.js, Express, and Socket.io with room partitioning.
+
+CERTIFICATIONS
+- Python for Everybody Specialization (Coursera)
+- AWS Certified Cloud Practitioner (2023)
